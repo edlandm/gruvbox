@@ -1,9 +1,12 @@
 <p align="center"><img src="http://svgur.com/i/3Dp.svg"></p>
 
+This is a fork from [origin][]. I just wanted to be able keep my minor tweak(s) when switching machines
+
 gruvbox is heavily inspired by [badwolf][], [jellybeans][] and [solarized][].
 
 Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of [solarized][]. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
 
+   [origin]: https://github.com/morhetz/gruvbox
    [badwolf]: https://github.com/sjl/badwolf
    [jellybeans]: https://github.com/nanotech/jellybeans.vim
    [solarized]: http://ethanschoonover.com/solarized
